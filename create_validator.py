@@ -1,3 +1,6 @@
+import json
+
+
 def create_validator(dataset_df, target_col_name, filename):
     validator = {
         'title': 'ScoreModel',
