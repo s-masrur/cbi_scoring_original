@@ -2,3 +2,4 @@
 *.log
 .ipynb_checkpoints/
 catboost_info/
+/data

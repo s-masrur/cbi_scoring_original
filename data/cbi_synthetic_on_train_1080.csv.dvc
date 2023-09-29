@@ -1,5 +1,0 @@
-outs:
-- md5: b3c21f9cd12ba363166c5f71aab44ceb
-  size: 177919
-  hash: md5
-  path: cbi_synthetic_on_train_1080.csv
